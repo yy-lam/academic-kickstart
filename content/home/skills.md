@@ -36,6 +36,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
+ 
+ [[feature]]
+  icon = "carrot"
+  icon_pack = "fas"
+  name = "Cooking"
+  description = "20%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
