@@ -13,9 +13,9 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations
-organizations: 
-- name: Stanford University
-  url: ""
+# organizations: 
+# - name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include machine learning in real-world application, quantitative finance
