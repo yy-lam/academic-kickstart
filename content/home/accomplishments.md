@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.credential.net/f8344694-4443-4362-8e2b-c9125fcc4cec?_ga=2.144959543.2007535045.1594781331-1629979700.1593394863#gs.attn28"
   date_start = "2020-07-13"
   date_end = "2023-07-13"
-  icon = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/20555674"
+  icon = tensorflow
 
 
 +++
