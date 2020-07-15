@@ -24,6 +24,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "80%"
+
+[[feature]]
+  icon = "tensorflow"
+  icon_pack = "custom"
+  name = "TensorFlow"
+  description = "50%"
   
 [[feature]]
   icon = "chart-line"
