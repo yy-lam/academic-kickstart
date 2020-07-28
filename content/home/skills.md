@@ -32,6 +32,12 @@ subtitle = ""
   description = "50%"
   
 [[feature]]
+  icon = "SQL"
+  icon_pack = "custom"
+  name = "sql"
+  description = "50%"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
