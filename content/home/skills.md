@@ -32,9 +32,9 @@ subtitle = ""
   description = "50%"
   
 [[feature]]
-  icon = "SQL"
+  icon = "sql"
   icon_pack = "custom"
-  name = "sql"
+  name = "SQL"
   description = "50%"
   
 [[feature]]
